@@ -1,0 +1,15 @@
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2.0.csprojAssemblyReference.cache
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.Main.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.Properties.Resources.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2.0.csproj.GenerateResource.cache
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2.0.csproj.CoreCompileInputs.cache
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\bin\Debug\AIS2.0.exe.config
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\bin\Debug\AIS2.0.exe
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\bin\Debug\AIS2.0.pdb
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2.0.exe
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2.0.pdb
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.AddItem.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.CreateOrder.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.DeleteItem.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.Bill.resources
+D:\2 курс\2.3\БД\AIS2.0\AIS2.0\obj\Debug\AIS2._0.OrderToPayFrom.resources
